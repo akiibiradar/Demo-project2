@@ -1,2 +1,1 @@
-# Demo-project2
-learning the basics
+step 1 :=- create a filw name html.css
